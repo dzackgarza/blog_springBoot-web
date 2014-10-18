@@ -4,3 +4,4 @@ bin
 .project
 .classpath
 .gradle
+./src/main/resources/application.yml
